@@ -63,12 +63,4 @@ Upcoming improvements:
 Contributions and suggestions are welcome!  
 Feel free to open issues or submit pull requests.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 > Built with care to simplify event management through a scalable and modern architecture.

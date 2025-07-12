@@ -37,7 +37,7 @@ Eventora is structured following a **Layered Architecture**, which provides clea
 - C#
 - Multi-Tenancy support
 - Clean/Layered Architecture principles
-
+- Angular
 ---
 
 ## 🚀 Features

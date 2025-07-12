@@ -1,0 +1,31 @@
+﻿@Eventora.WebAPi_HostAddress = https://localhost:7238
+
+GET {{Eventora.WebAPi_HostAddress}}/api/customers
+tenant:6842E271-23E2-498B-7E68-08DDC0D77133
+###
+
+POST {{Eventora.WebAPi_HostAddress}}/api/customers
+tenant:6842E271-23E2-498B-7E68-08DDC0D77133
+Content-Type: application/json
+
+{
+   
+  "fullName": "Eslam Hassan",
+  "phone": "01022336478",
+  "email": "hassanEslam@gmail.com"
+}
+
+###
+
+POST {{Eventora.WebAPi_HostAddress}}/api/customers
+Content-Type: application/json
+
+{
+  //CreateCustomersDto
+}
+
+###
+
+GET {{Eventora.WebAPi_HostAddress}}/api/customers
+
+###

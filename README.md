@@ -56,11 +56,5 @@ Upcoming improvements:
 - Advanced admin dashboard
 - Enhanced user experience
 
----
-
-## 🤝 Contributions
-
-Contributions and suggestions are welcome!  
-Feel free to open issues or submit pull requests.
 
 > Built with care to simplify event management through a scalable and modern architecture.
